@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/faridbpn/firstproject](https://github.com/faridbpn/firstproject)
 
-- 📝 I regularly write articles on [-](-)
+- 📝 I regularly write articles on [https://medium.com/@farid.idnsolo](https://medium.com/@farid.idnsolo)
 
 - 💬 Ask me about **HTML And CSS**
 
