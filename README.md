@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhammad Farid</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">Ello 👋, I'm farid</h1>
+<h3 align="center">self-taught code hobbyist</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faridbpn23&label=Profile%20views&color=0e75b6&style=flat" alt="faridbpn" />
+  <a href="https://wakatime.com/@1c91a63c-2af2-4dd6-b92d-97988e8ae2e6"><img src="https://wakatime.com/badge/user/1c91a63c-2af2-4dd6-b92d-97988e8ae2e6.svg"/></a>
+  <img src="https://badge.stateful.com/faridbpn/status.svg" alt="faridbpn status" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridbpn&label=Profile%20views&color=0e75b6&style=flat" alt="faridbpn" /> </p>
 
