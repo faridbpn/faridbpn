@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faridbpn23&label=Profile%20views&color=0e75b6&style=flat" alt="faridbpn" />
-  <a href="https://wakatime.com/@150fb17b-75fa-4dcd-9457-3630dfee963d"><img src="https://wakatime.com/badge/user/150fb17b-75fa-4dcd-9457-3630dfee963d.svg"/></a>
+  <a href="https://wakatime.com/@faridbpn"><img src="https://wakatime.com/badge/user/faridbpn.svg"/></a>
   <img src="https://badge.stateful.com/Iyxan23/status.svg" alt="Iyxan23's status" />
 </p>
 
