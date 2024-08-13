@@ -1,12 +1,6 @@
 <h1 align="center">Ello 👋, I'm farid</h1>
 <h3 align="center">self-taught code hobbyist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faridbpn23&label=Profile%20views&color=0e75b6&style=flat" alt="faridbpn" />
-  <a href="https://wakatime.com/@faridbpn"><img src="https://wakatime.com/badge/user/faridbpn.svg"/></a>
-  <img src="https://badge.stateful.com/Iyxan23/status.svg" alt="Iyxan23's status" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridbpn&label=Profile%20views&color=0e75b6&style=flat" alt="faridbpn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faridbpn" alt="faridbpn" /></a> </p>
