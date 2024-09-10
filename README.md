@@ -7,7 +7,7 @@
   <img src="https://badge.stateful.com/Iyxan23/status.svg" alt="Iyxan23's status" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy=ryo-ma&column=-1"><img src="https://github-profile-trophy.vercel.app/?username=faridbpn" alt="faridbpn" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=faridbpn-ma&row=2&column=3)"><img src="https://github-profile-trophy.vercel.app/?username=faridbpn" alt="faridbpn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
