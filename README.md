@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **farid.IDNSOLO@gmail.com**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Hit Me Up Here https://faridbpn.vercel.app/
 
 - ⚡ Fun fact **a monster who thirsts for knowledge and likes capybara :v**
 
