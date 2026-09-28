@@ -7,16 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faridbpn&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridbpn&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=faridbpn&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@faridbpn">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faridbpn&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true&range=all_time" alt="WakaTime stats" />
-  </a>
-</p>
